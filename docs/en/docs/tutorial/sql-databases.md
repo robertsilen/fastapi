@@ -15,6 +15,7 @@ You could use any other SQL or NoSQL database library you want (in some cases ca
 As SQLModel is based on SQLAlchemy, you can easily use **any database supported** by SQLAlchemy (which makes them also supported by SQLModel), like:
 
 * PostgreSQL
+* MariaDB
 * MySQL
 * SQLite
 * Oracle
